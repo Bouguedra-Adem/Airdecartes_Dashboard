@@ -1,0 +1,18 @@
+
+.NAV_Style {
+height:80px;
+ 
+}
+
+ImgStyle{
+    height:100%;
+    width:4%;
+    position: fixed;
+    left: 1%;   
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #f39c12;
+    border-color: #f39c12;
+}
+

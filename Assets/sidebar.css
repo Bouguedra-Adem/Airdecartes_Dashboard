@@ -1,0 +1,82 @@
+
+
+.SIDEBAR_STYLE {
+    position: fixed;
+    top: 62.5;
+    left: 0;
+    bottom: 0;
+    width: 16rem;
+    height: 100%;
+    z-index: 1;
+    overflow-x: hidden;
+    transition: all 0.5s;
+    padding: 0.5rem 1rem;
+    background-color:  #f53803;
+
+    background: linear-gradient(to top, #f39c12 -32%, rgb(25, 25, 26) 74%);
+    /*-webkit-box-shadow: 5px 5px 15px -5px #000000;*/
+    /*box-shadow: 5px 5px 15px -5px #000000;*/
+}
+
+
+
+.SIDEBAR_HIDEN  {
+    position: fixed;
+    top: 62.5;
+    left: -16rem;
+    bottom: 0;
+    width: 16rem;
+    height: 100%;
+    z-index: 1;
+    overflow-x: hidden;
+    transition: all 0.5s;
+    padding: 0rem 0rem;
+    background-color: #f8f9fa;
+}
+
+
+.Img_Style{
+    height:9%;
+    width:13%;
+    position: fixed;
+    left: 1%
+}
+
+
+span{
+font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 28px;
+letter-spacing: -0.4px;
+word-spacing: 0.6px;
+color: #ffffff;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+margin-left: 6%;
+font-variant: normal;
+text-transform: none;
+/*-webkit-box-shadow: 5px 5px 15px -5px #000000;*/
+    /*box-shadow: 5px 5px 15px -5px #000000;*/
+}
+
+.DivSpan{
+
+position: fixed;
+left: 6%;
+}
+.YassirLog
+{
+
+     margin-bottom:30%;
+     margin-top:1%;
+  
+
+}
+
+.hrBottom{
+    margin-bottom: 24%;
+
+    border-top: 3px  solid ;
+    color:#f39c12;
+}
+

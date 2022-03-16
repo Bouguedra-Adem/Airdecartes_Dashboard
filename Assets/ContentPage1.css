@@ -1,0 +1,246 @@
+.Histogram{
+ background-color:bklack
+
+
+}
+
+
+#Row3 {
+    padding-bottom: 5%;
+    padding-top: 5%;
+    margin-top: 3%;
+
+    background-color: rgb(0 0 0 / 4%);
+}
+
+#Row2 {
+    padding-bottom: 5%;
+    padding-top: 5%;
+    margin-top: 3%;
+    background-color: rgb(0 0 0 / 4%);
+}
+
+#Row1 {
+    padding-bottom: 5%;
+    padding-top: 5%;
+
+    background-color: rgb(0 0 0 / 4%);
+}
+#ROW3Compare{
+    background-color: rgb(133 113 48);;
+   padding-bottom: 5%;
+    padding-top: 5%;
+    border-style: dotted;
+    border-color: White;
+    border-radius: 40px
+}
+
+
+#ROW1Compare{
+   background-color: rgb(133 113 48);;
+   padding-bottom: 5%;
+    padding-top: 5%;
+    border-style: dotted;
+    border-color: White;
+    border-radius: 40px
+}
+
+.SpanCircle
+{
+   height: 25px;
+  width: 25px;
+  background-color: #ce3939;
+  border-radius: 50%;
+   padding-left: 5%;
+    padding-right: 5%;
+    font-size: 137%;
+    font-family: inherit;
+}
+.SpanCircleCenter{
+ height: 25px;
+  width: 25px;
+  background-color: #ce3939;
+  border-radius: 50%;
+   padding-left: 5%;
+    padding-right: 5%;
+    font-size: 200%;
+    font-family: inherit;
+    position: relative;
+    left: 24%;
+    top: 31%;
+}
+
+.CardSeg{
+    padding-left: 28%;
+}
+.ROW1Compare4{
+   background-color:rgb(133 113 48);;
+   padding-bottom: 5%;
+   padding-top: 5%;
+   border-style: dotted;
+   border-color: White;
+   border-radius: 40px;
+   height: 24%;
+}
+.COL1compare{
+margin-right:3%;
+
+}
+.COL3compare{
+    /* margin-right: 3%; */
+    margin-left: 2%;
+
+}
+
+
+.ROW1Compare5{
+    padding-top: 20%;
+    background-image: url('https://example.com/bottom.png');
+
+}
+
+
+.ROW1Compare5Card {
+    max-width: 59%;
+    height: 178px;
+    margin-left: 20%;
+    background-color: rgba(11, 87, 160, 0.97);
+}
+.triangle-down {
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 50px solid rgb(133 113 48);
+    left: 42%;
+    top: 104%;
+    position: absolute;
+
+}
+
+.triangle-left {
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-right: 50px solid rgb(133 113 48);
+	border-bottom: 25px solid transparent;
+    right: 103%;
+    bottom: 37%;
+    position: absolute;
+
+}
+.triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 50px solid rgb(133 113 48);
+    left: 42%;
+    bottom: 104%;
+    position: absolute;
+}
+.dash-cell {
+    background-color: rgb(6, 154, 151);
+    color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(211, 211, 211);
+    }
+.containerTab{
+    background-color: #54545233;
+}
+.triangle-right {
+    width: 0;
+    height: 0;
+    border-top: 25px solid transparent;
+    border-left: 50px solid rgb(133 113 48);;
+    border-bottom: 25px solid transparent;
+    left: 103%;
+    bottom: 37%;
+    position: absolute;
+}
+#containerpage2 {
+         background-color: rgb(63 64 64 / 11%);
+      border-style: dotted;
+   border-color: White;
+   border-radius: 40px;
+}
+.ROW1Compare6{
+   background-color:rgb(133 113 48);;
+   padding-bottom: 5%;
+   padding-top: 5%;
+   border-style: dotted;
+   border-color: White;
+   border-radius: 40px;
+   margin-top: 14%;
+   height: 26%;
+}
+
+.cardSegment{
+height:94px;
+
+}
+.H4Segment{
+padding-left: 22%;
+}
+
+.RevenuesTilte{
+    padding-left: 22%;
+    position: absolute;
+    top: 1%;
+    left: 16%;
+    padding-bottom: 3%;
+}
+.CouponTitle{
+    padding-left: 22%;
+    position: absolute;
+
+    bottom: 18%;
+    left: 16%;
+    padding-bottom: 3%;
+
+}
+.ROW1Compare4Col{
+  margin-top:4%;
+
+}
+.ROW1Compare6Col{
+   margin-top:4%;
+}
+
+.column-header-name{
+
+    color: black;
+    font-size: 127%;
+    font-family: serif;
+
+}
+
+
+
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner th {
+    background-color: #cc0f0f;
+}
+.ColFiltre{
+
+    padding-left: 2%;
+
+ }
+
+
+.DataTable{
+
+  margin-top: 2%;
+}
+.Select.has-value.Select--single > .Select-control .Select-value .Select-value-label, .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value .Select-value-label {
+    color: #333;
+    font-size: 16px;
+    ont-family: emoji;
+}
+#Rowtabb {
+
+    padding-bottom: 5%;
+    padding-top: 5%;
+    background-color: rgb(0 0 0 / 36%);
+
+}
