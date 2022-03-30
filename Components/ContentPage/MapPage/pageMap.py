@@ -1,8 +1,8 @@
 import dash_bootstrap_components as dbc
 
-from Components.ContentPage.Map.FilterMap.FilterMapHtml import FiltreMap
-from Components.ContentPage.Map.MapcallbackHtml import *
-from Components.ContentPage.Map.MapcallbackHtml.Maphtml import Map
+from Components.ContentPage.MapPage.FilterMap.FilterMapHtml import FiltreMap
+from Components.ContentPage.MapPage.MapcallbackHtml import *
+from Components.ContentPage.MapPage.MapcallbackHtml.Maphtml import Map
 
 containerpage2=dbc.Container([
 

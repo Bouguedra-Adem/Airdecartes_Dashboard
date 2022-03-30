@@ -55,7 +55,7 @@ geojson = dl.GeoJSON(data=geobuf, id="geojson", format="geobuf",
                                       circleOptions=dict(fillOpacity=0.7, stroke=False, radius=15),
                                       min=0, max=vmax, colorscale=colorscale))
 
-#Map=html.Div([html.P('Dash converts Python classes into HTML')],id="divMap"  )
+#MapPage=html.Div([html.P('Dash converts Python classes into HTML')],id="divMap"  )
 
 
 
@@ -69,7 +69,7 @@ Map= html.Div([dl.Map([dl.TileLayer(),
                          hideout=dict(colorProp=color_prop,circleOptions=dict(fillOpacity=0.7, stroke=False, radius=15),
                         min=0, max=vmax, colorscale=colorscale)),
                         colorbar],
-                       center=(48.848298, 2.566190), zoom=13,style={'width': '100%', 'height': '900px', 'margin': "auto", "display": "block"})])
+                       center=(49.949298, 2.566190), zoom=13,style={'width': '100%', 'height': '900px', 'margin': "auto", "display": "block"})])
 
 
 

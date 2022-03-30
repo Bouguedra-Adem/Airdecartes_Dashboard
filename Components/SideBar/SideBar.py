@@ -6,7 +6,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output, State
 
-image_filename = "./Assets/images/logo_yassir.png"
+image_filename = "Assets/images/logoDashv222.png"
 encoded_image = base64.b64encode(open(image_filename, 'rb').read()).decode('ascii')
 
 
@@ -32,7 +32,7 @@ submenu_1 = [
         [
           
             dbc.NavLink("Visualisation", href="/page-1", id="page-1-link"),
-            dbc.NavLink("Map", href="/page-2", id="page-2-link"),
+            dbc.NavLink("MapPage", href="/page-2", id="page-2-link"),
             dbc.NavLink("Tab", href="/page-3", id="page-3-link"),
         ],
         id="submenu-1-collapse",

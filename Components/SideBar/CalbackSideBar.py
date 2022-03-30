@@ -2,10 +2,10 @@ import dash_html_components as html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
 
-from Components.ContentPage.Map.pageMap import containerpage2
-from Components.ContentPage.Table.Page3tab import containerpage3
+from Components.ContentPage.MapPage.pageMap import containerpage2
+from Components.ContentPage.TablePage.Page3tab import containerpage3
 from callbacks_managers import CallbackManager
-from Components.ContentPage.Page1.Page1ContentHTML import *
+from Components.ContentPage.GraphePage.Page1ContentHTML import *
 callback_manager = CallbackManager()
 
 

@@ -111,7 +111,7 @@ def MapFilterFunction (df) :
                                       circleOptions=dict(fillOpacity=0.7, stroke=False, radius=15),
                                       min=0, max=vmax, colorscale=colorscale))
 
-    return #html.Div([dl.Map([dl.TileLayer(), geojson, colorbar], center=(48.848298, 2.566190), zoom=13,style={'width': '100%', 'height': '900px', 'margin': "auto", "display": "block"})])
+    return #html.Div([dl.MapPage([dl.TileLayer(), geojson, colorbar], center=(48.848298, 2.566190), zoom=13,style={'width': '100%', 'height': '900px', 'margin': "auto", "display": "block"})])
     '''
     color_prop="co2"
     df = df[['lat', 'lng', 'address', color_prop]]  # drop irrelevant columns
